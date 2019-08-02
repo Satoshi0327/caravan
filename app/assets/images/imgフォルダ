@@ -1,0 +1,2 @@
+image_tag('img/italy.jpg', class: 'blog-image')
+image_tag('img/forest.jpg',  class: 'blog-image')
